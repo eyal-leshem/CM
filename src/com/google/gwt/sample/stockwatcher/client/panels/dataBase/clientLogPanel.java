@@ -75,6 +75,7 @@ public class clientLogPanel extends FlowPanel {
 		
 	}
 	
+	
 	private void makeFirstLine() {
 		HorizontalPanel idPart=new HorizontalPanel(); 
 		id.addStyleName("clinetLogId"); 
